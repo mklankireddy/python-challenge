@@ -4,13 +4,13 @@
 Level 0 to Level 1 Challenge
 This is for people who are basically total Python beginners. Like if you’ve taken the first 3–4 lessons of a Python course (the average number of lessons before people drop the course).
 
-Create a GitHub
-Create a Random Number Generator
-Create a Contact List and Persist in JSON
-Rock Paper Scissors against the Computer
-High Low Guessing Game
-Dice Roll simulator
-Send an Email (with attachment)
+1. Create a GitHub
+2. Create a Random Number Generator
+3. Create a Contact List and Persist in JSON
+1. Rock Paper Scissors against the Computer
+1. High Low Guessing Game
+1. Dice Roll simulator
+1. Send an Email (with attachment)
 Password Generator
 Calculator that implements basic operations
 Unit Convertor
